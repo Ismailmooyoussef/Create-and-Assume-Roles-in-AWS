@@ -1,4 +1,6 @@
 # Create-and-Assume-Roles-in-AWS
 
-![image](https://user-images.githubusercontent.com/88247287/168406698-efa443ea-4d12-4887-a5e2-568e2fb76257.png)
+![image](https://user-images.githubusercontent.com/88247287/168406735-d0511fff-51a6-40e2-af66-72508ab4f90a.png)
+
+
 
